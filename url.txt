@@ -1,0 +1,46 @@
+http://blog.csdn.net/inkfish/article/details/4851050
+http://elim.iteye.com/blog/1750680
+https://www.ibm.com/developerworks/cn/java/j-jodatime.html
+
+http://blog.csdn.net/fhx007/article/details/7902040
+http://www.cnblogs.com/fsjohnhuang/p/4095059.html
+<dependencies>
+    <dependency>
+        <groupId>org.springframework.security</groupId>
+        <artifactId>spring-security-web</artifactId>
+        <version>4.2.2.RELEASE</version>
+    </dependency>
+</dependencies>
+
+freemarker http://blog.csdn.net/fhx007/article/details/7902040/
+java nio http://blog.csdn.net/mars5337/article/details/6576417
+http://blog.csdn.net/zhongweijian/article/details/8452999
+http://www.cnblogs.com/digdeep/p/4478734.html
+http://blog.csdn.net/kiss_the_sun/article/details/49931207
+
+http://www.cnblogs.com/ysh2012/articles/2764151.html
+
+http://keren.iteye.com/blog/1948936
+
+http://docs.oracle.com/javase/7/docs/api/java/nio/file/FileSystems.html
+
+http://blog.csdn.net/dc_726/article/details/7944154/
+
+http://blog.csdn.net/hudashi/article/details/50884742
+
+
+
+https://www.ibm.com/developerworks/cn/opensource/os-cn-soapui/
+http://www.cnblogs.com/liuconglin/p/5657674.html
+http://canken007.iteye.com/blog/1729547
+http://blog.csdn.net/w410589502/article/details/51742004
+http://download.csdn.net/detail/ww123ww_oh/7996107
+
+
+http://www.cnblogs.com/frankliiu-java/articles/1641949.html
+http://blog.csdn.net/zhangzeyuaaa/article/details/17281669
+
+
+http://www.cnblogs.com/apm70/archive/2012/08/13/SSL%E9%93%BE%E8%B7%AF%E5%8A%A0%E5%AF%86.html
+
+http://www.cnblogs.com/jack204/archive/2012/07/02/2572932.html
