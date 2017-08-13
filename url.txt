@@ -1,3 +1,6 @@
+Java解析XML的四种方法详解
+http://blog.csdn.net/dongfengkuayue/article/details/50240157
+
 http://blog.csdn.net/inkfish/article/details/4851050
 http://elim.iteye.com/blog/1750680
 https://www.ibm.com/developerworks/cn/java/j-jodatime.html
