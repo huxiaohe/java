@@ -1,3 +1,6 @@
+深入理解java虚拟机
+http://blog.csdn.net/column/details/jvm-deep-undstand.html
+
 Java解析XML的四种方法详解
 http://blog.csdn.net/dongfengkuayue/article/details/50240157
 
