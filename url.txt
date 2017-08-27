@@ -1,3 +1,6 @@
+深入分析Volatile的实现原理
+http://blog.csdn.net/lc0817/article/details/51878807
+
 深入理解java虚拟机
 http://blog.csdn.net/column/details/jvm-deep-undstand.html
 
