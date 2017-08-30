@@ -1,3 +1,6 @@
+powermock源码浅析
+http://blog.csdn.net/a040600145/article/details/54587920
+
 power mock 入门介绍及使用示例
 http://blog.csdn.net/rainbow702/article/details/51783285
 
