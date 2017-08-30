@@ -1,3 +1,6 @@
+power mock 入门介绍及使用示例
+http://blog.csdn.net/rainbow702/article/details/51783285
+
 深入分析Volatile的实现原理
 http://blog.csdn.net/lc0817/article/details/51878807
 
