@@ -1,0 +1,18 @@
+<script type="text/javascript">
+        var y, m, d;
+        var total = 0;
+        var arr = new Array(31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31);
+        y = Number(prompt("请输入年"));
+        m= Number(prompt("请输入月"));
+        d = Number(prompt("请输入日"));
+        for (var i = 0; i < m - 1; i++) {
+            total = total + arr[i];
+        }
+        if ((y % 400 == 0 || (y % 4 == 0 && y % 100 != 0)) && m > 2) {
+            total = total + d + 1
+            document.write("该日期为一年中的第" + total  + "天" );
+        } else {
+            total = total + d
+            document.write("该日期为一年中的第" + total  + "天" );
+        }
+    </script>
