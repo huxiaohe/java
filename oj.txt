@@ -16,3 +16,5 @@
             document.write("该日期为一年中的第" + total  + "天" );
         }
     </script>
+
+http://blog.csdn.net/u012319493/article/details/50132277
