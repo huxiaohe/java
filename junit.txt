@@ -1,0 +1,5 @@
+运行JUnit测试脚本：
+java -cp [jar files separated by comma including junit jar file and your junit test case jar file] org.junit.runner.JUnitCore [your junit test case class]
+
+例子：
+java -cp test.jar;../junit-4.8.1.jar org.junit.runner.JUnitCore test.RerunTest
